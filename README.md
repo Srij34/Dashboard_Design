@@ -1,5 +1,6 @@
-📦 Data-Visualization-Storytelling
- ┣ 📊 PowerBI_Dashboard.pbix
+📦 madhav-ecommerce-dashboard
+ ┣ 📊 PowerBI_Report.pbix
  ┣ 📁 assets/
- ┃ ┗ 📸 charts-screenshots.png
+ ┃ ┗ 📸 dashboard-screenshots.png
  ┗ 📘 README.md
+
